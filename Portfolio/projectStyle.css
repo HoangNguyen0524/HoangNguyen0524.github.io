@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    line-height: 120%;
+}
+a{
+    color: white;
+    float: center;
+}
+nav {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}

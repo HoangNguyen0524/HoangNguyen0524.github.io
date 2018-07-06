@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    line-height: 120%;
+}
+p {
+    float: left;
+    color:white;
+    text-align: center;
+    width: 45%;
+    margin:1em;
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    line-height: 120%;
+}
+img {
+    float: right;
+    display: block;
+}
+a{
+    color: white;
+    float: center;
+}
+nav {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}

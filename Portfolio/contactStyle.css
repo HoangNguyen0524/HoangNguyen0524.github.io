@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    float: center;
+    line-height: 120%;
+}
+a{
+    color: white;
+    float: center;
+}
+nav {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+#contact {
+    line-height: 120%;
+    float: center;
+}

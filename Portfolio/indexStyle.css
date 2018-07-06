@@ -1,0 +1,23 @@
+#p1 {
+    font-size: 40px;
+    color: rgd(255, 255, 255) ;
+    font-family: 'Lato', sans-serif;
+}
+#p2 {
+    font-size: 30px;
+    color: rgd(255, 255, 255) ;
+    font-family: 'Lato', sans-serif;
+}
+body {
+    background-color: black;
+    line-height: 120%;
+}
+a{
+    color: white;
+    float: center;
+}
+nav {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
